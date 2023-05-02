@@ -1,4 +1,3 @@
-![pendejo](PENDEJO.png)
 # Escaneo y ataque a máquinas en red local
 Este script en Bash realiza un escaneo de la red local en busca de máquinas disponibles y, en caso de encontrarlas, las ataca para instalar un servidor web Apache2 y mostrar un mensaje personalizado en su página principal. Este script requiere la herramienta sshpass para permitir la conexión automática a las máquinas detectadas.
 
